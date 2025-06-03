@@ -12,6 +12,16 @@ h1 {
   font-color: #A5B4FC;
 }
 
+p {
+  font-size: 1.1em;
+  font-family: 'Manrope';
+}
+
+ul {
+  font-size: 1.1em;
+  font-family: 'Manrope';
+}
+
 .montserrat-<uniquifier> {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
