@@ -1,8 +1,4 @@
-a {
-  color: black;
-}
-
-.important {
+em {
   color: #a5b4fc;
   font-size: 1em;
 }
@@ -14,6 +10,7 @@ h1 {
 }
 
 a {
+  color: black;
   font-size: 1em;
   font-family: 'Manrope';
   text-decoration: none;
