@@ -5,3 +5,24 @@ a {
 .important {
   color: #a5b4fc;
 }
+
+h1 {
+  font-size: 3em;
+  font-family: 'Montserrat';
+  font-color: #A5B4FC;
+}
+
+.montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.manrope-<uniquifier> {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
