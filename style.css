@@ -5,31 +5,35 @@ em {
 
 h1 {
   font-size: 3em;
-  font-family: 'Montserrat';
+  font-family: "Montserrat", sans-serif;
   font-color: #A5B4FC;
 }
 
 a {
   color: black;
   font-size: 1em;
-  font-family: 'Manrope';
+ font-family: "Manrope", sans-serif;
   text-decoration: none;
 }
 
 p {
   font-size: 1.1em;
-  font-family: 'Manrope';
+  font-family: "Manrope", sans-serif;
 }
 
 ul {
   font-size: 1.1em;
-  font-family: 'Manrope';
+  font-family: "Manrope", sans-serif;
 }
 
-.montserrat-<uniquifier> {
+body {
+  font-family: "Manrope", sans-serif;
+}
+
+.montserrat-gras {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 800;
   font-style: normal;
 }
 
