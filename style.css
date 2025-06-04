@@ -1,5 +1,4 @@
 body {
-  background-color: #1F2039;
   /* Ici on utilise le sélecteur body pour appliquer une police et une taille par défaut pour les éléments */
   font-family: 'Manrope', sans-serif;
   font-size: 1em;
@@ -41,7 +40,9 @@ p, ul, h2 {
   color: white;
 }
 
-
+.blue {
+  background: #1F2039 cover;
+}
 
 
 
