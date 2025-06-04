@@ -30,14 +30,14 @@ p, li, h2 {
 }
 
 .blanc {
-  background-color: white;
+  background-color: #f0f5f1;
   color: #242424;
 }
 
 .newlink {
   background: linear-gradient(#8E86B5, #ACAEED);
   font-family: 'Manrope';
-  color: white;
+  color: #f0f5f1;
 }
 
 
