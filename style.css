@@ -30,8 +30,7 @@ p, li, h2 {
 }
 
 .blanc {
-  background: white cover;
-  padding: 10px;
+  background-color: white;
   color: #242424;
 }
 
