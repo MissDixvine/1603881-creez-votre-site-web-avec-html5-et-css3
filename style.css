@@ -23,3 +23,8 @@ h1 {
 p {
   font-size: 1.1em;
 }
+
+.blanc {
+  background: white cover;
+  padding: 10px;
+}
