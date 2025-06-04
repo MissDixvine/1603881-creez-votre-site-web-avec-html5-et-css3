@@ -25,7 +25,12 @@ p {
   font-size: 1.1em;
 }
 
+p, ul, h2 {
+  color: #F9F8FF;
+}
+
 .blanc {
   background: white cover;
   padding: 10px;
+  color: #242424;
 }
