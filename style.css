@@ -2,6 +2,7 @@ body {
   /* Ici on utilise le sélecteur body pour appliquer une police et une taille par défaut pour les éléments */
   font-family: 'Manrope', sans-serif;
   font-size: 1em;
+  background: #1F2039;
 }
 
 a {
@@ -24,7 +25,7 @@ p {
   font-size: 1.1em;
 }
 
-p, ul, h2 {
+p, li, h2 {
   color: #F9F8FF;
 }
 
@@ -35,13 +36,9 @@ p, ul, h2 {
 }
 
 .newlink {
-  background: linear-gradient(90deg, #8E86B5, #ACAEED);
+  background: linear-gradient(#8E86B5, #ACAEED);
   font-family: 'Manrope';
   color: white;
-}
-
-.blue {
-  background: #1F2039 cover;
 }
 
 
