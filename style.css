@@ -36,6 +36,14 @@ li {
 }
 
 .cta {
+  border-radius: 50px;
   background: linear-gradient(#8e86b5, #acaeed);
   color: white;
 }
+
+.compet {
+  border-right: 1px #8e86b5;
+  border-bottom: 1px #8e86b5;
+}
+
+
