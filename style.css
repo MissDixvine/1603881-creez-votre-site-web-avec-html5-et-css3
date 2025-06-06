@@ -9,6 +9,15 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
+a[class="cta"]:hover {
+  text-decoration: none;
+  color: linear-gradient(90deg, #696484, #8788BA);
+}
+
 em {
   color: #a5b4fc;
   font-style: normal;
@@ -33,6 +42,10 @@ li {
 .entete,
 .pied-de-page {
   background-color: white;
+}
+
+.entete img:hover, .pied-de-page img:hover {
+  opacity: 0.5;
 }
 
 .cta {
