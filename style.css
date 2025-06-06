@@ -13,7 +13,7 @@ a:hover {
   text-decoration: underline;
 }
 
-a[class="cta"]:hover {
+.cta:hover {
   text-decoration: none;
   color: linear-gradient(90deg, #696484, #8788BA);
 }
